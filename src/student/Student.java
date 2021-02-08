@@ -7,7 +7,7 @@ package student;
 
 /**
  *
- * @author humza
+ * @author humza 2021
  */
 public class Student {
     
